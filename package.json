@@ -1,5 +1,5 @@
 {
-  "name": "pagination",
+  "name": "react_pagination",
   "version": "1.0.0",
   "description": "React pagination Component",
   "main": "dist/index.js",
